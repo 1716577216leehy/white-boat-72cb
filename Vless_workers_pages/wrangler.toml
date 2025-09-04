@@ -1,4 +1,4 @@
-name = "white-boat-72cb"
-type = "javascript"
-main = "_worker.js"
-workers_dev = true
+name = "white-boat-72cb"        # Worker 名称
+type = "javascript"             # JS 类型，如果是 ESM 模块改为 "modules"
+main = "_worker.js"             # Worker 入口文件名
+workers_dev = true              # 部署到 workers.dev
