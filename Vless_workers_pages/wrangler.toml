@@ -1,4 +1,4 @@
 name = "white-boat-72cb"
 type = "javascript"
-main = "_workers.js"
+main = "_worker.js"
 workers_dev = true
